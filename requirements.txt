@@ -1,0 +1,22 @@
+pyTelegramBotAPI==4.26.0
+python-telegram-bot==21.11.1
+telebot==0.0.5
+telebot-router==0.0.5
+
+# HTTP и сетевые зависимости
+httpx==0.28.1
+httpcore==1.0.7
+requests==2.32.3
+urllib3==2.3.0
+
+# Вспомогательные пакеты
+anyio==4.8.0
+certifi==2025.1.31
+charset-normalizer==3.4.1
+h11==0.14.0
+idna==3.10
+sniffio==1.3.1
+typing-extensions==4.12.2
+
+# Управление пакетами
+pip==24.2
