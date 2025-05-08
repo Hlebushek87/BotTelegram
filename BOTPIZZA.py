@@ -3,7 +3,7 @@ import telebot
 import re
 from telebot import types
 
-bot = telebot.TeleBot('7701081384:AAEXnHumeQkJ3v6KqbLyeVmrWx9nluv0bYw')
+bot = telebot.TeleBot('ТОКЕН ЧАТ-БОТА TELEGRAM')
 conn = sqlite3.connect('data.db', check_same_thread=False)
 cursor = conn.cursor()
 conn.commit()
